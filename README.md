@@ -9,7 +9,7 @@
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-success.svg)](https://dependabot.com)
 
 Doorkeeper is a gem (Rails engine) that makes it easy to introduce OAuth 2 provider
-functionality to your Ruby on Rails or Grape application.                                with new image :1.2.3 test 3  test 4
+functionality to your Ruby on Rails or Grape application.                                with new image :1.2.3 test 3  test 4 test5
 
 Supported features:
 
